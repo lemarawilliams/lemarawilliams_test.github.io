@@ -95,24 +95,11 @@ header a:hover {
 }
 
 footer {
-  background-color: var(--global-footer-bg-color);
+  background-color: #20B2AA;
   font-size: 0.75rem;
   position: fixed;
   right: 0;
   bottom: 0;
   left: 0;
   z-index: 1030;
-}
-
-footer.fixed-bottom {
-    background-color: var(--global-footer-bg-color);
-    font-size: 0.75rem;
-}
-
-.fixed-bottom {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 1030;
 }
