@@ -61,11 +61,12 @@ body {
 
 header {
   background-color: #263d36;
-  background-image: url("zdenek-machacek-njozvAbuReU-unsplash.jpg");
+  background-image: url("samuel-scrimshaw-2oFdVd00xOg-unsplash.jpg");
   background-position: center top;
   background-repeat: no-repeat;
   background-size: cover;
   line-height: 1.2;
+  padding: 2vw 3em;
   text-align: center;
 }
 
