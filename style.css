@@ -36,7 +36,7 @@ pre {
   padding: 1em;
 }
 a {
-  color: #e81c4f;
+  color: #20B2AA;
 }
 body {
   color: #566b78;
@@ -68,13 +68,6 @@ header {
   line-height: 1.2;
   padding: 10vw 2em;
   text-align: center;
-}
-
-header img {
-  display: inline-block;
-  height: 120px;
-  vertical-align: top;
-  width: 120px;
 }
 
 header h1 {
